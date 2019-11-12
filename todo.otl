@@ -1,0 +1,6 @@
+[_] Add libraries
+	ipython
+	pandas
+	seaborn
+	yapf
+	flake8
